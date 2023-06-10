@@ -15,6 +15,6 @@
 🌱Most of the documents are in French, as they were made in France for study purposes or local clients. If you need any translation, I remain at your disposal.
 
 
-
+->
 📫 How to reach me: https://www.linkedin.com/in/sofia-velasco-gas/
 
