@@ -9,10 +9,8 @@
 
 
 🌱Here you will find some of the models that I have made, and that portray my skills and knowledge in the field of Data Science.
-
-🌱Surely the codes can be further optimized. Nevertheless, they were done such that they respect all what was requested to me at the time.
-
-🌱Most of the documents are in French, as they were made in France for study purposes or local clients. If you need any translation, I remain at your disposal.
+Surely the codes can be further optimized. Nevertheless, they were done such that they respect all what was requested to me at the time.
+Most of the documents are in French, as they were made in France for study purposes or local clients. If you need any translation, I remain at your disposal.
 
 
 ->
